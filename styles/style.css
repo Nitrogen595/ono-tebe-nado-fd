@@ -48,6 +48,7 @@ body {
 }
 
 .header__contacts {
+  width: 240px;
   justify-self: end;
 }
 
