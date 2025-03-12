@@ -23,7 +23,7 @@
   margin-left: 5px;
 }
 
-.underline {
+.monotonous-link {
   text-decoration: underline solid 1px;
   text-underline-offset: 3.5px;
 }
@@ -170,7 +170,7 @@
 .lots__card {
   position: relative;
   width: 334px;
-  height: 596px;
+  min-height: 596px;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
